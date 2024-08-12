@@ -6,9 +6,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net8.0/${workspaceFolderBasename}.dll",
+            "program": "${workspaceFolder}/Program/bin/Debug/net8.0/Program.dll",
             "args": [],
-            "cwd": "${workspaceFolder}",
+            "cwd": "${workspaceFolder}/Program",
             "console": "integratedTerminal",
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart"
