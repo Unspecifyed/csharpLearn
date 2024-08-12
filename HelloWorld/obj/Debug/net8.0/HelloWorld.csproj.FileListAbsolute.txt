@@ -12,3 +12,4 @@
 /home/francis/Documents/csharpLearn/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
 /home/francis/Documents/csharpLearn/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
 /home/francis/Documents/csharpLearn/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
+/home/francis/Documents/csharpLearn/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
