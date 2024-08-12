@@ -1,0 +1,15 @@
+/home/francis/Documents/csharpLearn/Program/bin/Debug/net8.0/Program
+/home/francis/Documents/csharpLearn/Program/bin/Debug/net8.0/Program.deps.json
+/home/francis/Documents/csharpLearn/Program/bin/Debug/net8.0/Program.runtimeconfig.json
+/home/francis/Documents/csharpLearn/Program/bin/Debug/net8.0/Program.dll
+/home/francis/Documents/csharpLearn/Program/bin/Debug/net8.0/Program.pdb
+/home/francis/Documents/csharpLearn/Program/obj/Debug/net8.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/francis/Documents/csharpLearn/Program/obj/Debug/net8.0/Program.AssemblyInfoInputs.cache
+/home/francis/Documents/csharpLearn/Program/obj/Debug/net8.0/Program.AssemblyInfo.cs
+/home/francis/Documents/csharpLearn/Program/obj/Debug/net8.0/Program.csproj.CoreCompileInputs.cache
+/home/francis/Documents/csharpLearn/Program/obj/Debug/net8.0/Program.sourcelink.json
+/home/francis/Documents/csharpLearn/Program/obj/Debug/net8.0/Program.dll
+/home/francis/Documents/csharpLearn/Program/obj/Debug/net8.0/refint/Program.dll
+/home/francis/Documents/csharpLearn/Program/obj/Debug/net8.0/Program.pdb
+/home/francis/Documents/csharpLearn/Program/obj/Debug/net8.0/Program.genruntimeconfig.cache
+/home/francis/Documents/csharpLearn/Program/obj/Debug/net8.0/ref/Program.dll
